@@ -55,4 +55,4 @@ def print_top_starred_repos(username, N):
     print(f'Top {min(N, len(sorted_rns))} starred repositories:')
     # printing top N starred repos, or as many as the user has if < N
     for repo in sorted_rns[:N]:
-        print(repo[0], repo[1])
+        print(f'Repository: {repo[0]}, Star Count: {repo[1]}')

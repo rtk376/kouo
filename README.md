@@ -41,12 +41,12 @@ Output:
 Username: fabpot
 
 Top 6 starred repositories:
-local-php-security-checker 700
-symfony 369
-sphinx-php 163
-Silex 116
-Twig 80
-Pimple 77
+Repository: local-php-security-checker, Star Count: 700
+Repository: symfony, Star Count: 369
+Repository: sphinx-php, Star Count: 163
+Repository: Silex, Star Count: 116
+Repository: Twig, Star Count: 80
+Repository: Pimple, Star Count: 77
 
 ```
 
