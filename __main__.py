@@ -16,7 +16,8 @@ if __name__ == '__main__':
 
     username = args.username[0]
     num_top = args.num_top[0] #how many repos to show
-
+    ### Print the username
+    print(f'Username: {username} \n')
     ### Print top num_top starred repos
     print_top_starred_repos(username, num_top)
 
