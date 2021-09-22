@@ -47,3 +47,8 @@ Twig 80
 Pimple 77
 
 ```
+
+NOTES
+-----
+`setup.py` is not provided and the installation of this package is not supported
+due to the simplicity of the task.
