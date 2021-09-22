@@ -29,6 +29,8 @@ The program can take in up to two arguments, `-u, --username` and
 `--top` is an optional argument that takes in a integer, N, to show
 the top N starred repositories of the given user. Default N=5.
 
+Please clone the repository, e.g. `git clone https://github.com/rtk376/kouo.git`, 
+and install the dependencies.
 ## Example
 
 ```
